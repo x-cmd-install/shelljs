@@ -7,7 +7,7 @@ about:
   head: f364da6
   archived: false
   latestVersion: v0.10.0
-  collectedAt: 2026-09-04T19:57:06Z
+  collectedAt: 2026-09-04T20:43:46Z
 timeline:
   created: 2012-03-02
   lastCommit: 2026-06-30
@@ -80,6 +80,34 @@ total:
   openIssue: 89
   commit: 900
 ---
+path: /home/runner/.x-repo/github.com/shelljs/shelljs
+collectedAt: 2026-09-04T20:43:47Z
+loc:
+  JavaScript:
+    code: 8856
+    comments: 1546
+    blanks: 1475
+    files: 88
+  Json:
+    code: 6519
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1318
+    blanks: 472
+    files: 4
+  Text:
+    code: 0
+    comments: 114
+    blanks: 2
+    files: 9
+total:
+  code: 15507
+  comments: 2989
+  blanks: 1955
+  files: 103
 ---
 date: "2026-08-24"
 repo:
