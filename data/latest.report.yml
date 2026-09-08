@@ -5,7 +5,7 @@ about:
   head: f364da6
   archived: false
   latestVersion: "v0.10.0"
-  collectedAt: 2026-09-08T03:21:45Z
+  collectedAt: 2026-09-08T06:07:02Z
 timeline:
   created: 2012-03-02
   lastCommit: 2026-06-30
@@ -79,7 +79,7 @@ total:
   commit: 900
 ---
 path: /home/runner/.x-repo/github.com/shelljs/shelljs
-collectedAt: 2026-09-08T03:21:46Z
+collectedAt: 2026-09-08T06:07:05Z
 loc:
   JavaScript:
     code: 8856
