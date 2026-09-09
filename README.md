@@ -7,7 +7,7 @@
 - **Latest release**: `v0.10.0` (2025-05-09)
 - **Last commit**: 2026-06-30
 - **License**: BSD-3-Clause
-- **Stars**: 14401 · **Forks**: 753 · **Open issues**: 649 · **Contributors**: 86
+- **Stars**: 14400 · **Forks**: 753 · **Open issues**: 649 · **Contributors**: 86
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/shelljs> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:17:45Z._
+_Last regenerated: 2026-09-09T20:45:18Z._
