@@ -22,11 +22,10 @@ x install shelljs
 
 - **Latest**: `v0.10.0` (2025-05-09)
 - **Last commit**: 2026-06-30
-- **Published**: 2025-05-09T19:23:01Z
 
 ## Popularity
 
-- **Stars**: 14,399 · **Forks**: 753 · **Open issues**: 649 · **Contributors**: 86
+- **Stars**: 14,398 · **Forks**: 753 · **Open issues**: 649 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for shelljs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `shelljs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/shelljs.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/shelljs.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:19:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T18:31:33Z._
