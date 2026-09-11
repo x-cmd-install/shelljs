@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.0"
   latestRelease: "v0.10.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:15:49Z
+  collectedAt: 2026-09-11T18:43:53Z
 timeline:
   created: 2012-03-02
   lastCommit: 2026-06-30
@@ -83,7 +83,7 @@ total:
   commit: 900
 ---
 path: /home/runner/.x-repo/github.com/shelljs/shelljs
-collectedAt: 2026-09-11T06:15:51Z
+collectedAt: 2026-09-11T18:43:54Z
 loc:
   JavaScript:
     code: 8856
