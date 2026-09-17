@@ -30,8 +30,8 @@ x install shelljs
 评分最低的几项:
 
 - **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -56,12 +56,12 @@ x install shelljs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 1 | 8 | 0 | 0 | 1 |
-| last180d | 2026-03-20 | 0 | 5 | 12 | 0 | 0 | 5 |
-| 360d | 2025-09-21 | 0 | 16 | 12 | 0 | 1 | 16 |
-| last720d | 2024-09-26 | 4 | 52 | 12 | 12 | 4 | 63 |
+| 30d | 2026-08-18 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 8 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 1 | 8 | 0 | 0 | 1 |
+| last180d | 2026-03-21 | 0 | 4 | 12 | 0 | 0 | 5 |
+| 360d | 2025-09-22 | 0 | 16 | 12 | 0 | 1 | 16 |
+| last720d | 2024-09-27 | 4 | 52 | 12 | 12 | 4 | 63 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ shelljs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T06:44:05Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T06:49:04Z._
