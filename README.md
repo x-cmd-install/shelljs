@@ -4,7 +4,7 @@
 
 :shell: Portable Unix shell commands for Node.js
 
-![shelljs](https://repo.x-cmd.io/shelljs.svg)
+[![x-cmd/install — shelljs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/shelljs.svg)](https://x-cmd.com/install/shelljs)
 
 ## Install
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,395 · **Forks**: 755 · **Open issues**: 649 · **Contributors**: 86
+- **Stars**: 14,395 · **Forks**: 757 · **Open issues**: 649 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 457 · **Open PRs**: 20 · **Closed issues**: 561 · **Open issues**: 88 · **Commits**: 900
+- **Releases**: 20 · **Merged PRs**: 457 · **Open PRs**: 22 · **Closed issues**: 561 · **Open issues**: 88 · **Commits**: 900
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 1 | 8 | 0 | 0 | 1 |
-| last180d | 2026-03-22 | 0 | 4 | 12 | 0 | 0 | 5 |
-| 360d | 2025-09-23 | 0 | 16 | 12 | 0 | 1 | 16 |
-| last720d | 2024-09-28 | 4 | 52 | 12 | 12 | 4 | 63 |
+| 30d | 2026-08-21 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 9 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 1 | 10 | 0 | 0 | 1 |
+| last180d | 2026-03-24 | 0 | 4 | 14 | 0 | 0 | 5 |
+| 360d | 2025-09-25 | 0 | 16 | 14 | 0 | 1 | 16 |
+| last720d | 2024-09-30 | 4 | 52 | 14 | 12 | 4 | 63 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for shelljs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:36:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:34:18Z._
