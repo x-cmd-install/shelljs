@@ -25,13 +25,13 @@ Total: **15,423** lines of code across **103** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (2/10) — 1 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 2
 
 ## Source
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,395 · **Forks**: 758 · **Open issues**: 650 · **Contributors**: 87
+- **Stars**: 14,395 · **Forks**: 757 · **Open issues**: 650 · **Contributors**: 87
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 1 | 9 | 1 | 0 | 1 |
-| last60d | 2026-08-08 | 0 | 1 | 11 | 1 | 0 | 1 |
-| 90d | 2026-07-09 | 0 | 1 | 14 | 1 | 0 | 1 |
-| last180d | 2026-04-10 | 0 | 4 | 18 | 1 | 0 | 4 |
-| 360d | 2025-10-12 | 0 | 17 | 18 | 1 | 1 | 17 |
-| last720d | 2024-10-17 | 4 | 53 | 18 | 14 | 3 | 64 |
+| 30d | 2026-09-08 | 0 | 1 | 9 | 1 | 0 | 1 |
+| last60d | 2026-08-09 | 0 | 1 | 11 | 1 | 0 | 1 |
+| 90d | 2026-07-10 | 0 | 1 | 14 | 1 | 0 | 1 |
+| last180d | 2026-04-11 | 0 | 4 | 18 | 1 | 0 | 4 |
+| 360d | 2025-10-13 | 0 | 17 | 18 | 1 | 1 | 17 |
+| last720d | 2024-10-18 | 4 | 53 | 18 | 14 | 3 | 64 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for shelljs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:23:07Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:30:08Z._
