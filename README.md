@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,398 · **Forks**: 762 · **Open issues**: 650 · **Contributors**: 89
+- **Stars**: 14,397 · **Forks**: 763 · **Open issues**: 650 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 460 · **Open PRs**: 30 · **Closed issues**: 564 · **Open issues**: 86 · **Commits**: 903
+- **Releases**: 20 · **Merged PRs**: 460 · **Open PRs**: 34 · **Closed issues**: 564 · **Open issues**: 86 · **Commits**: 903
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 2 | 12 | 1 | 0 | 3 |
-| last60d | 2026-08-13 | 0 | 2 | 16 | 1 | 0 | 3 |
-| 90d | 2026-07-14 | 0 | 3 | 18 | 1 | 0 | 3 |
-| last180d | 2026-04-15 | 0 | 5 | 22 | 1 | 0 | 5 |
-| 360d | 2025-10-17 | 0 | 19 | 22 | 1 | 1 | 19 |
-| last720d | 2024-10-22 | 4 | 55 | 22 | 13 | 3 | 66 |
+| 30d | 2026-09-13 | 0 | 2 | 15 | 1 | 0 | 3 |
+| last60d | 2026-08-14 | 0 | 2 | 20 | 1 | 0 | 3 |
+| 90d | 2026-07-15 | 0 | 3 | 22 | 1 | 0 | 3 |
+| last180d | 2026-04-16 | 0 | 5 | 26 | 1 | 0 | 5 |
+| 360d | 2025-10-18 | 0 | 19 | 26 | 1 | 1 | 19 |
+| last720d | 2024-10-23 | 4 | 55 | 26 | 13 | 3 | 66 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for shelljs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:21:32Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:20:03Z._
