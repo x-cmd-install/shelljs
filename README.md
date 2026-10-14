@@ -14,24 +14,24 @@ x install shelljs
 
 ## Code insight
 
-Total: **15,482** lines of code across **103** files in the top 5 languages.
+Total: **15,565** lines of code across **103** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 8,963 | 1,550 | 1,490 | 88 |
+| JavaScript | 9,046 | 1,550 | 1,503 | 88 |
 | Json | 6,519 | 0 | 0 | 2 |
 | Markdown | 0 | 1,318 | 472 | 4 |
 | Text | 0 | 114 | 2 | 9 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (2/10) — 1 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 2
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.0` (2025-05-09)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 460 · **Open PRs**: 34 · **Closed issues**: 564 · **Open issues**: 86 · **Commits**: 903
+- **Releases**: 20 · **Merged PRs**: 461 · **Open PRs**: 33 · **Closed issues**: 564 · **Open issues**: 86 · **Commits**: 904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 2 | 15 | 1 | 0 | 3 |
-| last60d | 2026-08-14 | 0 | 2 | 20 | 1 | 0 | 3 |
-| 90d | 2026-07-15 | 0 | 3 | 22 | 1 | 0 | 3 |
-| last180d | 2026-04-16 | 0 | 5 | 26 | 1 | 0 | 5 |
-| 360d | 2025-10-18 | 0 | 19 | 26 | 1 | 1 | 19 |
-| last720d | 2024-10-23 | 4 | 55 | 26 | 13 | 3 | 66 |
+| 30d | 2026-09-14 | 0 | 3 | 14 | 1 | 0 | 4 |
+| last60d | 2026-08-15 | 0 | 3 | 19 | 1 | 0 | 4 |
+| 90d | 2026-07-16 | 0 | 4 | 21 | 1 | 0 | 4 |
+| last180d | 2026-04-17 | 0 | 6 | 24 | 1 | 0 | 6 |
+| 360d | 2025-10-19 | 0 | 20 | 25 | 1 | 1 | 20 |
+| last720d | 2024-10-24 | 4 | 56 | 25 | 13 | 3 | 67 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for shelljs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:20:03Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:13:26Z._

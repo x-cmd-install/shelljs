@@ -14,24 +14,24 @@ x install shelljs
 
 ## 代码洞察
 
-合计: **15,482** 行代码（覆盖前 5 种语言、共 **103** 个文件）。
+合计: **15,565** 行代码（覆盖前 5 种语言、共 **103** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 8,963 | 1,550 | 1,490 | 88 |
+| JavaScript | 9,046 | 1,550 | 1,503 | 88 |
 | Json | 6,519 | 0 | 0 | 2 |
 | Markdown | 0 | 1,318 | 472 | 4 |
 | Text | 0 | 114 | 2 | 9 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.3 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (2/10) — 1 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 2
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install shelljs
 ## 发布
 
 - **最新版本**: `v0.10.0` (2025-05-09)
-- **最近提交**: 2026-10-09
+- **最近提交**: 2026-10-14
 
 ## 流行度
 
@@ -50,18 +50,18 @@ x install shelljs
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 460 · **开放 PR**: 34 · **已关闭 issue**: 564 · **开放 issue**: 86 · **提交数**: 903
+- **发布数**: 20 · **已合并 PR**: 461 · **开放 PR**: 33 · **已关闭 issue**: 564 · **开放 issue**: 86 · **提交数**: 904
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 2 | 15 | 1 | 0 | 3 |
-| last60d | 2026-08-14 | 0 | 2 | 20 | 1 | 0 | 3 |
-| 90d | 2026-07-15 | 0 | 3 | 22 | 1 | 0 | 3 |
-| last180d | 2026-04-16 | 0 | 5 | 26 | 1 | 0 | 5 |
-| 360d | 2025-10-18 | 0 | 19 | 26 | 1 | 1 | 19 |
-| last720d | 2024-10-23 | 4 | 55 | 26 | 13 | 3 | 66 |
+| 30d | 2026-09-14 | 0 | 3 | 14 | 1 | 0 | 4 |
+| last60d | 2026-08-15 | 0 | 3 | 19 | 1 | 0 | 4 |
+| 90d | 2026-07-16 | 0 | 4 | 21 | 1 | 0 | 4 |
+| last180d | 2026-04-17 | 0 | 6 | 24 | 1 | 0 | 6 |
+| 360d | 2025-10-19 | 0 | 20 | 25 | 1 | 1 | 20 |
+| last720d | 2024-10-24 | 4 | 56 | 25 | 13 | 3 | 67 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ shelljs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T08:20:04Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T06:13:27Z._
