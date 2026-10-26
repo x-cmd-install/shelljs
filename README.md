@@ -14,11 +14,11 @@ x install shelljs
 
 ## Code insight
 
-Total: **15,565** lines of code across **103** files in the top 5 languages.
+Total: **15,599** lines of code across **103** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 9,046 | 1,550 | 1,503 | 88 |
+| JavaScript | 9,080 | 1,550 | 1,507 | 88 |
 | Json | 6,519 | 0 | 0 | 2 |
 | Markdown | 0 | 1,318 | 472 | 4 |
 | Text | 0 | 114 | 2 | 9 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.0` (2025-05-09)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-25
 
 ## Popularity
 
-- **Stars**: 14,402 · **Forks**: 763 · **Open issues**: 650 · **Contributors**: 89
+- **Stars**: 14,402 · **Forks**: 763 · **Open issues**: 650 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 461 · **Open PRs**: 36 · **Closed issues**: 564 · **Open issues**: 86 · **Commits**: 904
+- **Releases**: 20 · **Merged PRs**: 462 · **Open PRs**: 35 · **Closed issues**: 564 · **Open issues**: 86 · **Commits**: 905
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 2 | 16 | 1 | 0 | 4 |
-| last60d | 2026-08-26 | 0 | 3 | 21 | 1 | 0 | 4 |
-| 90d | 2026-07-27 | 0 | 3 | 22 | 1 | 0 | 4 |
-| last180d | 2026-04-28 | 0 | 6 | 26 | 1 | 0 | 6 |
-| 360d | 2025-10-30 | 0 | 20 | 28 | 1 | 1 | 20 |
-| last720d | 2024-11-04 | 4 | 56 | 28 | 13 | 3 | 67 |
+| 30d | 2026-09-26 | 0 | 3 | 15 | 1 | 0 | 5 |
+| last60d | 2026-08-27 | 0 | 4 | 20 | 1 | 0 | 5 |
+| 90d | 2026-07-28 | 0 | 4 | 21 | 1 | 0 | 5 |
+| last180d | 2026-04-29 | 0 | 7 | 25 | 1 | 0 | 7 |
+| 360d | 2025-10-31 | 0 | 21 | 27 | 1 | 1 | 21 |
+| last720d | 2024-11-05 | 4 | 57 | 27 | 13 | 3 | 68 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for shelljs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:50:58Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T06:03:38Z._
