@@ -25,13 +25,13 @@ x install shelljs
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.9 / 10**
+总评分: **5 / 10**
 
 评分最低的几项:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 9/22 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -46,7 +46,7 @@ x install shelljs
 
 ## 流行度
 
-- **Star**: 14,401 · **Fork**: 766 · **开放 issue**: 651 · **贡献者**: 90
+- **Star**: 14,402 · **Fork**: 766 · **开放 issue**: 651 · **贡献者**: 90
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install shelljs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 6 | 0 | 1 | 1 |
-| last60d | 2026-09-18 | 0 | 4 | 21 | 1 | 1 | 5 |
-| 90d | 2026-08-19 | 0 | 4 | 26 | 1 | 1 | 5 |
-| last180d | 2026-05-21 | 0 | 7 | 30 | 1 | 1 | 7 |
-| 360d | 2025-11-22 | 0 | 19 | 32 | 1 | 2 | 19 |
-| last720d | 2024-11-27 | 4 | 57 | 32 | 13 | 4 | 68 |
+| 30d | 2026-10-20 | 0 | 0 | 5 | 0 | 1 | 1 |
+| last60d | 2026-09-20 | 0 | 3 | 20 | 1 | 1 | 5 |
+| 90d | 2026-08-21 | 0 | 4 | 26 | 1 | 1 | 5 |
+| last180d | 2026-05-23 | 0 | 7 | 29 | 1 | 1 | 7 |
+| 360d | 2025-11-24 | 0 | 19 | 32 | 1 | 2 | 19 |
+| last720d | 2024-11-29 | 4 | 57 | 32 | 13 | 4 | 68 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ shelljs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:09:03Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:08:57Z._
